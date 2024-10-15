@@ -19,15 +19,11 @@ SOC analyst, programming code analysis, vulnerability scanning on websites and c
 
 ### Specialized in
 
-- Continuous monitoring of security incidents and real-time response (Threat Intelligence, EDR). 
-- Threat investigations
-- Vulnerability assessments in programming codes
-- Automating alerts
-- Working with other teams to enhance the security capabilities of the organization
+Continuous monitoring of security incidents and real-time response (Threat Intelligence, EDR), Threat investigations, Vulnerability assessments in programming codes, Automating alerts, Working with other teams to enhance the security capabilities of the organization
 
 ### Research interests
 
-Web Application Security, Network Penetration Testing, Mobile Security, Social Engineering, Threat Intelligence, Incident Detection and Response, Malware Analysis, Network Security Monitoring, Endpoint Security, Automation in Security Operations, Forensics, Vulnerability Management.
+Web Application Security, Network Penetration Testing, Mobile Security, Social Engineering, Threat Intelligence, Incident Detection and Response, Malware Analysis, Network Security Monitoring, Endpoint Security, Automation in Security Operations, Forensics, Vulnerability Management
 
 
 ## Education
@@ -62,26 +58,26 @@ Research work of Batxillerat, [Forats negres i càlcul de la magnitud aparent de
 `2021`
 __Full-time employment contract at [Xperientia](https://xperientia.es/).__ 
 
-Role: Computer support in software and hardware in the City Council of Montcada i Reixac (helpdesk).
+Role: Computer support in software and hardware in the City Council of Montcada i Reixac (helpdesk)
 
 
 `2021`
 __Extracurricular internships in the City Council of Montcada i Reixac__
 
-Role: Systems administration support and help desk.
+Role: Systems administration support and help desk
 
 `2020`
 __Curricular internships in the City Council of Montcada i Reixac__
 
-Role: Systems administration support and help desk.
+Role: Systems administration support and help desk
 
 ## Skills and abilities
 
 __Languages__: Catalan, Spanish, English
 
-__Communication skills__: Good interpersonal skills for teamwork and customer relations.
+__Communication skills__: Good interpersonal skills for teamwork and customer relations
 
-__Job-related competencies__: Willingness to learn, Responsibility and commitment, Emotional management, Adaptability, Initiative, Ability to work in a team, Tolerance to stress and frustration.
+__Job-related competencies__: Willingness to learn, Responsibility and commitment, Emotional management, Adaptability, Initiative, Ability to work in a team, Tolerance to stress and frustration
 
 __Digital skills__: Cortex XDR, Tenable, Prisma Cloud, Veracode, Recorded Future, Splunk, C#, C, C++, Verilog, VHDL, Python, Windows and Linux Assembly, Java, PHP, CSS, HTML, R, JavaScript, TypeScript
 
