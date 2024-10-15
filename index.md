@@ -13,17 +13,17 @@ Cybersecurity Engineer with a Master's Degree
 
 ## Currently
 
+SOC analyst, programming code analysis, vulnerability scanning on websites, cybersecurity awareness and training at [OptimumTIC](https://www.optimumtic.com/).
+
+
+
+### Specialized in
+
 - Continuous monitoring of security incidents and real-time response (Threat Intelligence, EDR). 
 - Threat investigations
 - Vulnerability assessments in programming codes
 - Automating alerts
 - Working with other teams to enhance the security capabilities of the organization
-
-
-### Specialized in
-
-Cortex XDR, Tenable, Prisma Cloud, Veracode, Recorded Future, Splunk 
-
 
 ### Research interests
 
@@ -47,20 +47,20 @@ International Summer Academy in Engineering for Women (4 ECTS) FH Upper Austria 
 
 ## Publications
 
-https://upcommons.upc.edu/handle/2117/380522
-https://ddd.uab.cat/pub/tfg/2021/tfg_393637/EN_-_Laia_Rus_Bordas_-_Informe_Final.pdf
-https://es.scribd.com/doc/297998683/FN-i-QSO3C273
+`2022`
+Official Master's Degree Final Project, [Teaching self-sovereign identity](https://upcommons.upc.edu/handle/2117/380522)
 
-### Patents
+`2021`
+Final degree thesis, [Biofeedback based on a microcontroller and sensors for anxiety management](https://ddd.uab.cat/pub/tfg/2021/tfg_393637/EN_-_Laia_Rus_Bordas_-_Informe_Final.pdf)
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+`2015`
+Research work of Batxillerat, [Forats negres i càlcul de la magnitud aparent del quàsar 3C273](https://es.scribd.com/doc/297998683/FN-i-QSO3C273)
 
 
 ## Occupation
 
 `2021`
-__Full-time employment contract at Xperientia.__ 
+__Full-time employment contract at [Xperientia](https://xperientia.es/).__ 
 Role: Computer support in software and hardware in the City Council of Montcada i Reixac (helpdesk).
 
 
@@ -75,8 +75,11 @@ Role: Systems administration support and help desk.
 ## Skills and abilities
 
 __Languages__: Catalan, Spanish, English
+
 __Communication skills__: Good interpersonal skills for teamwork and customer relations.
+
 __Job-related competencies__: Willingness to learn, Responsibility and commitment, Emotional management, Adaptability, Initiative, Ability to work in a team, Tolerance to stress and frustration.
+
 __Digital skills__: Cortex XDR, Tenable, Prisma Cloud, Veracode, Recorded Future, Splunk, C#, C, C++, Verilog, VHDL, Python, Windows and Linux Assembly, Java, PHP, CSS, HTML, R, JavaScript, TypeScript
 
 
