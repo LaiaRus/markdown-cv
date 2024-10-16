@@ -79,7 +79,7 @@ __Communication skills__: Good interpersonal skills for teamwork and customer re
 
 __Job-related competencies__: Willingness to learn, Responsibility and commitment, Emotional management, Adaptability, Initiative, Ability to work in a team, Tolerance to stress and frustration
 
-__Digital skills__: Cortex XDR, XQL, Tenable, Prisma Cloud, Veracode, Recorded Future, Splunk, SPL, C#, C, C++, Verilog, VHDL, Python, Windows and Linux Assembly, Java, PHP, CSS, HTML, R, JavaScript, TypeScript
+__Digital skills__: Cortex XDR, XQL, Tenable, Nessus, Prisma Cloud, Veracode, Recorded Future, Splunk, SPL, C#, C, C++, Verilog, VHDL, Python, Windows and Linux Assembly, Java, PHP, CSS, HTML, R, JavaScript, TypeScript
 
 
 
