@@ -28,10 +28,10 @@ Web Application Security, Network Penetration Testing, Mobile Security, Social E
 
 ## Education
 
-`2021-2022`
+`2021-22`
 __Master's degree in Cybersecurity - UPC Universitat Politècnica de Catalunya__
 
-`2016-2021`
+`2016-21`
 __Bachelor's Degree in Computer Engineering - UAB Universitat Autònoma de Barcelona__
 
 
