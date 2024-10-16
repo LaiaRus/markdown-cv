@@ -6,14 +6,14 @@ title: Laia's CV
 Cybersecurity Engineer with a Master's Degree
 
 <div id="webaddress">
-  <a href="laiarusb@gmail.com">laiarusb@gmail.com</a>
+  <a href="mailto:laiarusb@gmail.com">laiarusb@gmail.com</a>
 | <a href="https://www.linkedin.com/in/laia-rus-bordas-133652237/">My LinkedIn page</a>
 </div>
 
 
 ## Currently
 
-SOC analyst, programming code analysis, vulnerability scanning on websites and cybersecurity awareness and training at [OptimumTIC](https://www.optimumtic.com/) since 2022.
+SOC Analyst, Programming code analysis, Vulnerability scanning on websites and Cybersecurity awareness and training at [OptimumTIC](https://www.optimumtic.com/) since 2022.
 
 
 
