@@ -154,10 +154,10 @@ h3 {
 	width: 18%;
 }
 
-a {
+/*a {
 	color: inherit;
 	text-decoration:none
-}
+}*/
 
 a:hover {
 	color:#39f
@@ -173,7 +173,7 @@ a:hover {
 }
 
 #webaddress a {
-	text-decoration: none;
+	/*text-decoration: none;*/
 	font-size: 100%;
 }
 
