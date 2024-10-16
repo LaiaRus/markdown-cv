@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Laia's CV
+title: Laia Rus Bordas
 ---
 # Laia Rus Bordas
 Cybersecurity Engineer with a Master's Degree
