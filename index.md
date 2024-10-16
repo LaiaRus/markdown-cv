@@ -13,7 +13,7 @@ Cybersecurity Engineer with a Master's Degree
 
 ## Currently
 
-SOC Analyst, Programming code analysis, Vulnerability scanning on websites and Cybersecurity awareness and training at [OptimumTIC](https://www.optimumtic.com/) since 2022.
+SOC Analyst, Programming code analysis, Vulnerability scanning on websites and endpoints, Cybersecurity awareness and training at [OptimumTIC](https://www.optimumtic.com/) since 2022.
 
 
 
