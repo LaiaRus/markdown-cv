@@ -67,11 +67,12 @@ p {
 	margin-bottom: 0.7em;
 	margin-right: 0;
 	width: 65%;
+	text-align: justify;
 }
 
 code {
 	font: normal normal;
-	font-size: 60%;
+	font-size: 100%;
 	/*line-height: 1em;*/
 	font-family: Menlo,monospace,sans-serif;
 	color: #aaa;
@@ -170,7 +171,7 @@ a:hover {
 }
 
 #webaddress a {
-	text-decoration: none;
+	font-size: 100%;
 }
 
 em {
