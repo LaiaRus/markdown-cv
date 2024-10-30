@@ -1,91 +1,86 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Laia Rus Bordas
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Laia Rus Bordas
+Cybersecurity Engineer with a Master's Degree
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+  <a href="mailto:cv.savor608@passinbox.com">cv.savor608@passinbox.com</a>
+| <a href="https://www.linkedin.com/in/laia-rus-bordas-133652237/">My LinkedIn page</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+SOC Analyst, Programming code analysis, Vulnerability scanning on websites and endpoints, Cybersecurity awareness and training at [OptimumTIC](https://www.optimumtic.com/) since 2022.
+
+
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
+Continuous monitoring of security incidents and real-time response (Threat Intelligence, EDR), Threat investigations, Vulnerability assessments in programming codes, Automating alerts, Working with other teams to enhance the security capabilities of the organization
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Web Application Security, Network Penetration Testing, Mobile Security, Social Engineering, Threat Intelligence, Incident Detection and Response, Malware Analysis, Network Security Monitoring, Endpoint Security, Automation in Security Operations, Forensics, Vulnerability Management
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2021-2022`
+__Master's degree in Cybersecurity - UPC Universitat Politècnica de Catalunya__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+`2016-2021`
+__Bachelor's Degree in Computer Engineering - UAB Universitat Autònoma de Barcelona__
 
 
+## Additional training
 
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
+`2019`
+International Summer Academy in Engineering for Women (4 ECTS) FH Upper Austria University of Applied Sciences
 
 
 ## Publications
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+`2022`
+Official Master's Degree Final Project, [Teaching self-sovereign identity](https://upcommons.upc.edu/handle/2117/380522)
 
-### Journals
+`2021`
+Final degree thesis, [Biofeedback based on a microcontroller and sensors for anxiety management](https://ddd.uab.cat/pub/tfg/2021/tfg_393637/EN_-_Laia_Rus_Bordas_-_Informe_Final.pdf)
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+`2015`
+Research work of Batxillerat, [Forats negres i càlcul de la magnitud aparent del quàsar 3C273](https://es.scribd.com/doc/297998683/FN-i-QSO3C273)
 
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+`2021`
+__Full-time employment contract at [Xperientia](https://xperientia.es/).__ 
 
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+Role: Computer support in software and hardware in the City Council of Montcada i Reixac (helpdesk)
 
 
+`2021`
+__Extracurricular internships in the City Council of Montcada i Reixac__
 
-<!-- ### Footer
+Role: Systems administration support and help desk
 
-Last updated: May 2013 -->
+`2020`
+__Curricular internships in the City Council of Montcada i Reixac__
+
+Role: Systems administration support and help desk
+
+## Skills and abilities
+
+__Languages__: Catalan, Spanish, English
+
+__Communication skills__: Good interpersonal skills for teamwork and customer relations
+
+__Job-related competencies__: Willingness to learn, Responsibility and commitment, Emotional management, Adaptability, Initiative, Ability to work in a team, Tolerance to stress and frustration
+
+__Digital skills__: Cortex XDR, XQL, Tenable, Nessus, Prisma Cloud, Veracode, Recorded Future, Splunk, SPL, C#, C, C++, Verilog, VHDL, Python, Windows and Linux Assembly, Java, PHP, CSS, HTML, R, JavaScript, TypeScript
+
+
 
 
